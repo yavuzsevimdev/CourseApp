@@ -28,3 +28,4 @@ C:\Users\Yavuz\Desktop\aspnetcore-dersleri\basics\obj\Debug\net8.0\refint\basics
 C:\Users\Yavuz\Desktop\aspnetcore-dersleri\basics\obj\Debug\net8.0\basics.pdb
 C:\Users\Yavuz\Desktop\aspnetcore-dersleri\basics\obj\Debug\net8.0\basics.genruntimeconfig.cache
 C:\Users\Yavuz\Desktop\aspnetcore-dersleri\basics\obj\Debug\net8.0\ref\basics.dll
+C:\Users\Yavuz\Desktop\aspnetcore-dersleri\basics\obj\Debug\net8.0\basics.sourcelink.json
